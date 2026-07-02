@@ -60,8 +60,7 @@ iris config show                           # 查看配置（api-key 脱敏显示
 ```
 
 - 配置保存在 `~/.config/iris-cli/config.json`。
-- 服务地址**默认测试环境** `https://translate-api-test.crushonfeature.com`。
-  切换服务地址：`iris config set base-url <URL>`。
+- 设置服务地址：`iris config set base-url <URL>`。
 
 ---
 
